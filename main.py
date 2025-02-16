@@ -35,6 +35,6 @@ st.write('')
 # Embed the iframe
 st.components.v1.iframe(
     src="https://crosswordlabs.com/embed/quadratics-163",
-    width=1000,
-    height=2000
+    width=800,
+    height=800
 )
