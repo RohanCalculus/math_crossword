@@ -2,11 +2,13 @@ import streamlit as st
 
 st.title("Crossword Topic - Quadratics")
 
-st.write("All the best!")
-
+st.write("Instructions:-")
+st.write('1. You might see some answers right away if someone has not cleared the puzzle.')
+st.write('2. Hence, please click on "Clear Puzzle" button before starting.')
+st.write('3. You are requested to Clear the Puzzle after completing it.')
 # Embed the iframe
 st.components.v1.iframe(
     src="https://crosswordlabs.com/embed/quadratics-163",
-    width=800,
-    height=800
+    width=1000,
+    height=1000
 )
