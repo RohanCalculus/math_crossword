@@ -7,7 +7,7 @@ st.write('1. You might see some answers right away if someone has not cleared th
 st.write('2. Hence, please click on "Clear Puzzle" button before starting.')
 st.write('3. You are requested to Clear the Puzzle after completing it.')
 st.write('')
-st.write('Please Now Scroll Down to the Puzzle! All the best! <3')
+st.write('Now scroll down to the bottom of the page and click on "Clear Puzzle" to get started with a fresh one!')
 st.write('')
 st.write('')
 st.write('')
